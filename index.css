@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    padding: 0;
+    margin: 0;
+    background-color: #111;
+}
+
+.myself {
+    color: #fff;
+    margin-left: 80px;
+    margin-right: 800px;
+}
+
+.ptitle {
+    color: #fff;
+    text-align: center;
+}
+
+.pimg {
+    width: 500px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.project {
+    border: solid;
+    border-color: #fff;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-right: 600px;
+    margin-bottom: 25px;
+}
+
+.name {
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 75px;
+    font-size: 69px;
+    color: #fff;
+}
+
+.center {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    border-style: solid;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    text-decoration: none;
+    padding: 5px;
+    color: #fff;
+}
+
+li a:hover {
+    color: #333;
+}
+
+
+.skill {
+    height: 350px;
+    top: 150px;
+    left: 750px;
+    position: fixed;
+}
+
+.projectsvg {
+    height: 300px;
+    top: 150px;
+    left: 750px;
+    position: fixed;
+}
+
+.mail {
+    height: 400px;
+    top: 100px;
+    left: 700px;
+    position: fixed;
+}
+
+.contact {
+    margin-left: 125px;
+    color: #fff;
+}
+
+.jacob {
+    height: 375px;
+    position: fixed;
+    top: 115px;
+    left: 580px;
+}
